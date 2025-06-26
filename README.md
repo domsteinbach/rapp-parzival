@@ -2,8 +2,6 @@
 
 This project is based on [pagina/parzival](https://github.com/paginagmbh/parzival) licensed under GPL-3.0.
 
-# Original und Kopie des ›Rappoltsteiner Parzifal‹
-
 ## Synopse
 Dieses Projekt stellt die Quellen zur Website *Original und Kopie des ›Rappoltsteiner Parzifal‹* bereit.
 Es ist Teil des [Parzival-Projekts](http://www.parzival.unibe.ch/einfuehrung.html), einer genetischen
