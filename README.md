@@ -1,7 +1,5 @@
 # Original und Kopie des ›Rappoltsteiner Parzifal‹
 
-This project is based on [pagina/parzival](https://github.com/paginagmbh/parzival) licensed under GPL-3.0.
-
 ## Synopse
 Dieses Projekt stellt die Quellen zur Website *Original und Kopie des ›Rappoltsteiner Parzifal‹* bereit.
 Es ist Teil des [Parzival-Projekts](http://www.parzival.unibe.ch/einfuehrung.html), einer genetischen
@@ -10,8 +8,7 @@ digitalen Edition von Wolfram von Eschenbachs ‹Parzival›.
 ## Anleitung zum Bauen und Bereitstellen der Website
 ### Vorbedingungen / benötigte Software
 * Klonen/Herunterladen des hier vorliegenden Github-Projekts
-* Installation von [nodejs](https://nodejs.org/de/) ab Version 8.11.3 und kleiner als Version 15
-* Für die Datenaufbereitung während der Build-Phase muss das Programm tustep installiert sein
+* Installation von [nodejs](https://nodejs.org/de/) ab Version 8.11.3
 
 ### Erstellen der auslieferungsfähigen Quellen
 * npm install
