@@ -62,7 +62,6 @@ export default {
             })
             .then(url => {
               if (url) {
-                console.log(url);
                 this.osd.addTiledImage({
                   tileSource: url,
                   width,
